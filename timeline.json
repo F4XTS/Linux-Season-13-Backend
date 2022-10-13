@@ -1,0 +1,20 @@
+[
+   {
+      "channels":{
+         "client-events":{
+            "states":[
+               {
+                  "state":{
+                     "seasonNumber":13,
+                     "seasonTemplateId":"AthenaSeason:athenaseason13",
+                     "seasonBegin":"0001-06-23T04:00:00Z",
+                     "seasonEnd":"9999-07-23T04:00:00Z",
+                     "seasonDisplayedEnd":"9999-07-23T04:00:00Z"
+                  }
+               }
+            ]
+         }
+      },
+      "currentTime":"9998-06-23T04:00:00Z"
+   }
+]

@@ -1,0 +1,39 @@
+{
+  "crowns": 1942,
+  "character": "AthenaCharacter:CID_030_Athena_Commando_M_Halloween",
+  "skin_variants": [
+    {
+      "channel": "ClothingColor",
+      "active": "Mat1",
+      "owned": []
+    }
+  ],
+  "backpack": "AthenaBackpack:BID_004_BlackKnight",
+  "pickaxe": "AthenaPickaxe:Pickaxe_ID_376_FNCS",
+  "glider": "AthenaGlider:Glider_ID_118_Squishy",
+  "contrail": "AthenaSkyDiveContrail:Trails_ID_001_Disco",
+  "emote0": "AthenaDance:EID_Floss",
+  "emote1": "AthenaDance:EID_Laugh",
+  "emote2": "AthenaDance:EID_BestMates",
+  "emote3": "AthenaDance:EID_TakeTheL",
+  "emote4": "AthenaDance:EID_KPopDance03",
+  "emote5": "AthenaDance:EID_GoodVibes",
+  "wrap0": "AthenaItemWrap:Wrap_024_StealthBlack",
+  "wrap1": "AthenaItemWrap:Wrap_024_StealthBlack",
+  "wrap2": "AthenaItemWrap:Wrap_024_StealthBlack",
+  "wrap3": "AthenaItemWrap:Wrap_024_StealthBlack",
+  "wrap4": "AthenaItemWrap:Wrap_024_StealthBlack",
+  "wrap5": "AthenaItemWrap:Wrap_024_StealthBlack",
+  "wrap6": "AthenaItemWrap:Wrap_024_StealthBlack",
+  "music": "AthenaMusicPack:MusicPack_003_OGRemix",
+  "banner": "brseason01",
+  "loadingscreen": "AthenaLoadingScreen:LSID_157_NTBattleBus",
+  "level": 150,
+  "battlestars": 100000,
+  "style_points": 100000,
+  "v-bucks": "1000000",
+  "banner_colour": "DefaultColor16",
+  "profileRevision": 26,
+  "rvn": 1,
+  "wrap-1": "AthenaItemWrap:Wrap_065_AssassinSuit01"
+}
